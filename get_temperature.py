@@ -14,6 +14,12 @@ def getCurrentDate():
 
 	return(today_f)
 
+#This function returns the local temperature based on a website for Madrid
+def getCurrentTemp():
+	pass
+
+
+
 
 def main():
 	print(getCurrentDate())
