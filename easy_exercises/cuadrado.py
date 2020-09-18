@@ -34,10 +34,10 @@ def triangulo_rec(symbol="*",tam=5):
       
       
 def triangulo_isos(symbol="*",tam=5):
-  for j in range (tam):
+  for j in range(tam):
     for i in range(tam-(j+1)):
-      print(str(i), end='')
-    for i in range (j+1):
+      print(" ", end='')
+    for i in range(j+1):
       print(symbol+ " ", end="")
     print()
       
