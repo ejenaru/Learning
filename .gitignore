@@ -3,3 +3,4 @@ venv
 __*
 *.pyc
 /test/
+.idea
