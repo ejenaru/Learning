@@ -27,7 +27,7 @@ And, as The Zen of Python says...
 
 Right now I am (formally) studying:
 
-* 1st year of Multiplatform applications development in an on-line center (DAM)
+* 1st year of Higher Certification in Multiplatform Development
 * Unity 3D and 2D whith the EOI organization
 
 At the same time, I'm using my free time to organice my exercises here in Github so I can learn how to use Git and 
