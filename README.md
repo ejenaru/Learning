@@ -3,11 +3,11 @@ Learning
 ###### Here is where I'm going to save my learning process.
 
 ## Table of Contents
-* About me
-* This repository
-** Python
-** C#
-** Unity
+* [About me](#about-me)
+* [This repository](#this-repository)
+  * Python
+  * C#
+  * Unity
 
 
 ## About me
@@ -35,7 +35,7 @@ version control (I think it will be usefull in long term).
 
 A lot of my learning process is going to be self-taught, so I'll try my best to keep my code clean and organiced.
 
-So this is basically me. I hope you find this repo usefull for your learning process too.
+This is basically me. I hope you find this repo usefull for your learning process too. :smiley:
 
 ###### _P.S.: I'm not a native english speaker. Sometimes my code/comments may be poorly written or simply in spanish._
 
