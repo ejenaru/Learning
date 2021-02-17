@@ -7,7 +7,7 @@ namespace Áreas
         static void Main(string[] args)
         {
             //Area();
-            Numbers();
+            //Numbers(); 
         }
         public static void Area()
         {
@@ -130,5 +130,6 @@ namespace Áreas
                
             }
         }
+        
     }
 }

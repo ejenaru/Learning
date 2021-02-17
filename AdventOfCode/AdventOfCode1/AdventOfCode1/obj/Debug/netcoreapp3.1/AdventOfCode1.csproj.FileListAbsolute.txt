@@ -1,0 +1,13 @@
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.exe
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.deps.json
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.runtimeconfig.json
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.runtimeconfig.dev.json
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.dll
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.1\AdventOfCode1.pdb
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.csprojAssemblyReference.cache
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.AssemblyInfoInputs.cache
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.AssemblyInfo.cs
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.dll
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.pdb
+C:\Users\Trabajo\Desktop\Repositorios\Learning\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.1\AdventOfCode1.genruntimeconfig.cache
